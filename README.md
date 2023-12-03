@@ -34,10 +34,10 @@
   <a href="https://discord.com/users/noobnew" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-h-finotti-6b4bb029b">
+  <a href="https://www.linkedin.com/in/gabriel-h-finotti-6b4bb029b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/GabrielFinotti">
+  <a href="https://github.com/GabrielFinotti" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
