@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/finottidev.31" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:gabrielhenriquefinotti@gmail.com" target="_blank">
+  <a href="mailto:finotti.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://discord.com/users/noobnew" target="_blank">
