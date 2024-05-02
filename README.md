@@ -1,10 +1,10 @@
-# Oi!! Eu sou Gabriel Henrique Finotti 😎
+# Hi!! I am Gabriel Henrique Finotti 😎
 <div>
   <a href="https://github.com/GabrielFinotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFinotti&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFinotti&layout=compact&langs_count=16&theme=radical">
 </div>
-<h3>Linguagens e Ferramentas:</h3> 
+<h3>Language and tools:</h3> 
 <div>
   <img aling="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img aling="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,7 +20,7 @@
 </div>
 
 #
-<h3>Entre em contato:</h3>
+<h3>Contact me:</h3>
 <div>
   <a href="https://wa.me/5581983330498" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
