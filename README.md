@@ -29,7 +29,7 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 - **Software Engineer Junior** | Roteirizando
   - **Period**: July/2024 - Present
   - **Location**: Remote (Recife-PE)
-  - **Context**: Joined as a participating partner, actively contributing with technical work in platform development since the project's inception. Working alongside a multidisciplinary team formed by plenior frontend, senior backend, designer, and CEO, focusing on product construction and evolution.
+  - **Context**: I joined as a participating partner, actively contributing to the technical work in the development of the platform since the beginning of the project. I work alongside a multidisciplinary team formed by a full frontend, senior backend, designer and CEO, focusing on the construction and evolution of the product.
   - **Responsibilities**:
     - Development of the main platform using Next.js
     - Integration with proprietary Golang backend
