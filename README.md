@@ -154,9 +154,13 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 
 ## 🤝 Let's Connect
 
+<div align="center">
+  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581983330498)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/finottidev.31)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/finottidev/shared_invite/zt-36jaim3wk-teV_6oz8cC_92RZ4Wh5tdw)
+
+</div>
 
 ---
 
