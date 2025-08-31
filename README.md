@@ -38,7 +38,7 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
     - Active participation in product development decisions
 
 - **Software Engineer Junior** | Coach me up
-  - **Period**: July/2023 - February/2024 (8 months)
+  - **Period**: July/2023 - February/2024
   - **Location**: Remote (Portugal)
   - **Responsibilities**:
     - Platform development using Next.js
