@@ -27,7 +27,7 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 ## 💼 Professional Experience
 
 - **Software Engineer Junior** | Roteirizando
-  - **Period**: July/2024 - Present
+  - **Period**: July/2024 - Ago/2025
   - **Location**: Remote (Recife-PE)
   - **Context**: I joined as a participating partner, actively contributing to the technical work in the development of the platform since the beginning of the project. I work alongside a multidisciplinary team formed by a middle frontend, senior backend, designer and CEO, focusing on the construction and evolution of the product.
   - **Responsibilities**:
