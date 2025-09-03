@@ -17,7 +17,7 @@
 Passionate Full Stack Developer focused on creating innovative and scalable digital solutions. I combine modern technologies with best development practices to build robust and efficient applications.
 
 - 🔭 Currently working on full-stack projects with **React**, **Angular** and **Node.js**
-- 📱 Developing mobile applications with **React Native**
+- 📱 Developing mobile applications with **Flutter**
 - 🌱 Continuously learning and exploring new technologies
 - 💡 Interested in **web development**, **mobile development**, **software architecture**, and **user experience**
 - 🎯 Goal: Contributing to impactful projects that make a difference
@@ -52,7 +52,7 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 
 - **Hyper Music** - Complete music streaming platform
   - **Backend**: Node.js, Express, Redis, PostgreSQL
-  - **Mobile**: React Native (Expo)
+  - **Mobile**: Flutter
   - **Features**:
     - Music streaming
     - Data management with PostgreSQL
@@ -95,8 +95,7 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 
 ### Mobile Development
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend & APIs
 
@@ -118,7 +117,6 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -159,6 +157,7 @@ Passionate Full Stack Developer focused on creating innovative and scalable digi
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581983330498)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/finottidev.31)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/finottidev/shared_invite/zt-36jaim3wk-teV_6oz8cC_92RZ4Wh5tdw)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finotti.dev@gmail.com)
 
 </div>
 
